@@ -10,7 +10,7 @@
 * I thought that I would make a program that would help with that. 
 * Basically, the program displays a word (in target language) along with its audio wave form. You can then record your pronunciation and compare the waveforms.
 
-######:seedling: Ideas for Improvement:
+###### :seedling: Ideas for Improvement:
 * Check out audio spectrogramming: https://en.wikipedia.org/wiki/Spectrogram
 ## :zap: Features:
 * 
