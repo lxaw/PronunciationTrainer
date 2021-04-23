@@ -13,10 +13,25 @@
 ###### :seedling: Ideas for Improvement:
 * Check out audio spectrogramming: https://en.wikipedia.org/wiki/Spectrogram
 ## :zap: Features:
-* 
+* Creates waveform images of audio!
+* Records and plays audio!
+* Allows for comparison of waveforms!
+* Animations and such.
 
 ## :package: Modules / Packages:
-* 
+* pygame: https://pypi.org/project/pygame/
+* numpy: https://numpy.org/devdocs/index.html
+* threading: https://docs.python.org/3/library/threading.html
+* random: https://docs.python.org/3/library/random.html
+* os: https://docs.python.org/3/library/os.html
+* time: https://docs.python.org/3/library/time.html
+* pydub: https://pypi.org/project/pydub/
+* wave: https://docs.python.org/3/library/wave.html
+* contextlib: https://docs.python.org/3/library/contextlib.html
+* sys: https://docs.python.org/3/library/sys.html
+* sounddevice: https://pypi.org/project/sounddevice/
+* soundfile: https://pypi.org/project/SoundFile/
+* matplotlib: https://matplotlib.org/
 
 
 ###### :hammer: To do:
