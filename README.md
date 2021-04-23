@@ -35,5 +35,8 @@
 
 
 ###### :hammer: To do:
-* 
+* Clean it up a bit. Likely need fewer packages, but I am unfamiliar with much of them.
+
+###### :thought_balloon: What was learned:
+* Threading! Very powerful tool. Also, some more pygame practice and just general program flow. Surely in a year this will look terrible.
 
