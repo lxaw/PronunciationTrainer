@@ -9,6 +9,9 @@ numpy = "*"
 pydub = "*"
 sounddevice = "*"
 soundfile = "*"
+send2trash = "*"
+pillow = "*"
+matplotlib = "*"
 
 [dev-packages]
 
