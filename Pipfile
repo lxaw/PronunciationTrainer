@@ -1,0 +1,19 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pygame = "*"
+numpy = "*"
+pydub = "*"
+sounddevice = "*"
+soundfile = "*"
+send2trash = "*"
+pillow = "*"
+matplotlib = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.8"
