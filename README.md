@@ -2,9 +2,6 @@
 
 ## Using waveforms to help learn pronunciations.
 
-## :cinema: Video:
-* https://youtu.be/3-fjEZNa2SI
-
 ## :grey_question: What is it?
 * Many people try "shadowing" when learning languages. See more: https://en.wikipedia.org/wiki/Speech_shadowing
 * I thought that I would make a program that would help with that. 
